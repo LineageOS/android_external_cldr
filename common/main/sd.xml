@@ -719,7 +719,8 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 			<territory type="SV">ال سلواڊور</territory>
 			<territory type="SX">سنٽ مارٽن</territory>
 			<territory type="SY">شام</territory>
-			<territory type="SZ">سوازيلينڊ</territory>
+			<territory type="SZ">ايسواٽني</territory>
+			<territory type="SZ" alt="variant">سوازيلينڊ</territory>
 			<territory type="TA">ٽرسٽن دا ڪوها</territory>
 			<territory type="TC">ترڪ ۽ ڪيڪوس ٻيٽ</territory>
 			<territory type="TD">چاڊ</territory>

@@ -948,7 +948,8 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 			<territory type="SV">El Salvador</territory>
 			<territory type="SX">Sint Maarten</territory>
 			<territory type="SY">Siria</territory>
-			<territory type="SZ">Suazilandia</territory>
+			<territory type="SZ">Esuatini</territory>
+			<territory type="SZ" alt="variant" draft="contributed">Suazilandia</territory>
 			<territory type="TA">Tristán de Acuña</territory>
 			<territory type="TC">Islas Turcas y Caicos</territory>
 			<territory type="TD">Chad</territory>

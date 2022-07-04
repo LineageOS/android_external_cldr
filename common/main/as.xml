@@ -723,7 +723,8 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 			<territory type="SV">এল ছেলভেড’ৰ</territory>
 			<territory type="SX">চিণ্ট মাৰ্টেন</territory>
 			<territory type="SY">চিৰিয়া</territory>
-			<territory type="SZ">স্বাজিলেণ্ড</territory>
+			<territory type="SZ">ইচ্চুটিনি</territory>
+			<territory type="SZ" alt="variant">স্বাজিলেণ্ড</territory>
 			<territory type="TA">ত্ৰিস্তান দ্যা কুনহা</territory>
 			<territory type="TC">টাৰ্কছ অৰু কেইক’ছ দ্বীপপুঞ্জ</territory>
 			<territory type="TD">চাড</territory>

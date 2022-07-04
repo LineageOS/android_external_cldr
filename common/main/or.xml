@@ -925,7 +925,8 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 			<territory type="SV">ଏଲ୍ ସାଲଭାଡୋର୍</territory>
 			<territory type="SX">ସିଣ୍ଟ ମାର୍ଟୀନ୍‌</territory>
 			<territory type="SY">ସିରିଆ</territory>
-			<territory type="SZ">ସ୍ୱାଜିଲ୍ୟାଣ୍ଡ</territory>
+			<territory type="SZ">ଇସ୍ୱାତିନୀ</territory>
+			<territory type="SZ" alt="variant">ସ୍ୱାଜିଲ୍ୟାଣ୍ଡ</territory>
 			<territory type="TA">ଟ୍ରାଇଷ୍ଟନ୍‌ ଦା କୁନ୍‌ଚା</territory>
 			<territory type="TC">ତୁର୍କସ୍‌ ଏବଂ କାଇକୋସ୍‌ ଦ୍ୱୀପପୁଞ୍ଜ</territory>
 			<territory type="TD">ଚାଦ୍</territory>

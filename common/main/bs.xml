@@ -962,6 +962,7 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 			<territory type="SX">Sint Marten</territory>
 			<territory type="SY">Sirija</territory>
 			<territory type="SZ">Svazilend</territory>
+			<territory type="SZ" alt="variant">Svazi</territory>
 			<territory type="TA">Tristan da Cunha</territory>
 			<territory type="TC">Ostrva Turks i Kaikos</territory>
 			<territory type="TD">Čad</territory>

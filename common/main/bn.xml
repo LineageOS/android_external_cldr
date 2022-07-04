@@ -941,7 +941,8 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 			<territory type="SV">এল সালভেদর</territory>
 			<territory type="SX">সিন্ট মার্টেন</territory>
 			<territory type="SY">সিরিয়া</territory>
-			<territory type="SZ">সোয়াজিল্যান্ড</territory>
+			<territory type="SZ">ইসওয়াতিনি</territory>
+			<territory type="SZ" alt="variant">সোয়াজিল্যান্ড</territory>
 			<territory type="TA">ট্রিস্টান ডা কুনহা</territory>
 			<territory type="TC">তুর্কস ও কাইকোস দ্বীপপুঞ্জ</territory>
 			<territory type="TD">চাদ</territory>

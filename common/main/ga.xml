@@ -894,6 +894,7 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 			<territory type="SX">Sint Maarten</territory>
 			<territory type="SY">an tSiria</territory>
 			<territory type="SZ">an tSuasalainn</territory>
+			<territory type="SZ" alt="variant">Ríocht na Suasalainne</territory>
 			<territory type="TA">Tristan da Cunha</territory>
 			<territory type="TC">Oileáin na dTurcach agus Caicos</territory>
 			<territory type="TD">Sead</territory>

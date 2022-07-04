@@ -877,7 +877,8 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 			<territory type="SV">אל סלבדור</territory>
 			<territory type="SX">סנט מארטן</territory>
 			<territory type="SY">סוריה</territory>
-			<territory type="SZ">סווזילנד</territory>
+			<territory type="SZ">אסוואטיני</territory>
+			<territory type="SZ" alt="variant">סווזילנד</territory>
 			<territory type="TA">טריסטן דה קונה</territory>
 			<territory type="TC">איי טרקס וקייקוס</territory>
 			<territory type="TD">צ׳אד</territory>

@@ -723,7 +723,8 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 			<territory type="SV">ᎡᎵᏌᎵᏆᏙᎵ</territory>
 			<territory type="SX">ᏏᏂᏘ ᎹᏘᏂ</territory>
 			<territory type="SY">ᏏᎵᎠ</territory>
-			<territory type="SZ">ᎠᏂᏍᏩᏏᎢ</territory>
+			<territory type="SZ">ᎡᏍᏩᏘᏂ</territory>
+			<territory type="SZ" alt="variant">ᎠᏂᏍᏩᏏᎢ</territory>
 			<territory type="TA">ᏟᏍᏛᏂ Ꮣ ᎫᎾᎭ</territory>
 			<territory type="TC">ᎠᏂᏛᎵᎩ ᎠᎴ ᎨᎢᎪ ᏚᎦᏚᏛᎢ</territory>
 			<territory type="TD">ᏣᏗ</territory>

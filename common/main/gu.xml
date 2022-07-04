@@ -953,6 +953,7 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 			<territory type="SX">સિંટ માર્ટેન</territory>
 			<territory type="SY">સીરિયા</territory>
 			<territory type="SZ">સ્વાઝિલેન્ડ</territory>
+			<territory type="SZ" alt="variant" draft="contributed">સ્વાઝીલેન્ડ</territory>
 			<territory type="TA">ત્રિસ્તાન દા કુન્હા</territory>
 			<territory type="TC">તુર્ક્સ અને કેકોઝ આઇલેન્ડ્સ</territory>
 			<territory type="TD">ચાડ</territory>

@@ -738,6 +738,7 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 			<territory type="SX">Сінт-Мартэн</territory>
 			<territory type="SY">Сірыя</territory>
 			<territory type="SZ">Свазіленд</territory>
+			<territory type="SZ" alt="variant">Каралеўства Свазіленд</territory>
 			<territory type="TA">Трыстан-да-Кунья</territory>
 			<territory type="TC">Астравы Цёркс і Кайкас</territory>
 			<territory type="TD">Чад</territory>

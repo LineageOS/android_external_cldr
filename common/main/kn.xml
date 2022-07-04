@@ -943,6 +943,7 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 			<territory type="SX">ಸಿಂಟ್ ಮಾರ್ಟೆನ್</territory>
 			<territory type="SY">ಸಿರಿಯಾ</territory>
 			<territory type="SZ">ಸ್ವಾಜಿಲ್ಯಾಂಡ್</territory>
+			<territory type="SZ" alt="variant">ಸ್ವಾಜಿಲ್ಯಾಂಡ್‌</territory>
 			<territory type="TA">ಟ್ರಿಸ್ತನ್ ಡಾ ಕುನ್ಹಾ</territory>
 			<territory type="TC">ಟರ್ಕ್ಸ್ ಮತ್ತು ಕೈಕೋಸ್ ದ್ವೀಪಗಳು</territory>
 			<territory type="TD">ಚಾದ್</territory>

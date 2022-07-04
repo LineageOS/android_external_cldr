@@ -825,6 +825,7 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 			<territory type="SX">ሲንት ማርተን</territory>
 			<territory type="SY">ሲሪያ</territory>
 			<territory type="SZ">ሱዋዚላንድ</territory>
+			<territory type="SZ" alt="variant">ስዋዚላንድ</territory>
 			<territory type="TA">ትሪስታን ዲ ኩንሃ</territory>
 			<territory type="TC">የቱርኮችና የካኢኮስ ደሴቶች</territory>
 			<territory type="TD">ቻድ</territory>

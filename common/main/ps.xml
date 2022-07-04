@@ -721,7 +721,8 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 			<territory type="SV">سالوېډور</territory>
 			<territory type="SX">سینټ مارټین</territory>
 			<territory type="SY">سوریه</territory>
-			<territory type="SZ">سوازیلینډ</territory>
+			<territory type="SZ">اسواټيني</territory>
+			<territory type="SZ" alt="variant">سوازيلېنډ</territory>
 			<territory type="TA">تریستان دا کنها</territory>
 			<territory type="TC">د ترکیې او کیکاسو ټاپو</territory>
 			<territory type="TD">چاډ</territory>

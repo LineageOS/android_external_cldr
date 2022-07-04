@@ -942,7 +942,8 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 			<territory type="SV">السالوادور</territory>
 			<territory type="SX">سنت مارتن</territory>
 			<territory type="SY">سوریه</territory>
-			<territory type="SZ">سوازیلند</territory>
+			<territory type="SZ">اسواتینی</territory>
+			<territory type="SZ" alt="variant">سوازیلند</territory>
 			<territory type="TA">تریستان دا کونا</territory>
 			<territory type="TC">جزایر تورکس و کایکوس</territory>
 			<territory type="TD">چاد</territory>

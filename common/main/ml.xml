@@ -956,6 +956,7 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 			<territory type="SX">സിന്റ് മാർട്ടെൻ</territory>
 			<territory type="SY">സിറിയ</territory>
 			<territory type="SZ">സ്വാസിലാന്റ്</territory>
+			<territory type="SZ" alt="variant" draft="contributed">സ്വിറ്റ്സർലൻഡ്</territory>
 			<territory type="TA">ട്രസ്റ്റൻ ഡ കൂന</territory>
 			<territory type="TC">ടർക്ക്‌സും കെയ്‌ക്കോ ദ്വീപുകളും</territory>
 			<territory type="TD">ഛാഡ്</territory>

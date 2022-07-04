@@ -1067,7 +1067,8 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 			<territory type="SV">エルサルバドル</territory>
 			<territory type="SX">シント・マールテン</territory>
 			<territory type="SY">シリア</territory>
-			<territory type="SZ">スワジランド</territory>
+			<territory type="SZ">エスワティニ</territory>
+			<territory type="SZ" alt="variant">スワジランド</territory>
 			<territory type="TA">トリスタン・ダ・クーニャ</territory>
 			<territory type="TC">タークス・カイコス諸島</territory>
 			<territory type="TD">チャド</territory>

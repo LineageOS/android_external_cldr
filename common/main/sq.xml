@@ -732,7 +732,8 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 			<territory type="SV">Salvador</territory>
 			<territory type="SX">Sint-Marten</territory>
 			<territory type="SY">Siri</territory>
-			<territory type="SZ">Suazilend</territory>
+			<territory type="SZ">Esvatini</territory>
+			<territory type="SZ" alt="variant">Suazilend</territory>
 			<territory type="TA">Tristan-da-Kuna</territory>
 			<territory type="TC">Ishujt Turks dhe Kaikos</territory>
 			<territory type="TD">Çad</territory>

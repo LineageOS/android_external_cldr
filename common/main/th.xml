@@ -1073,7 +1073,8 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 			<territory type="SV">เอลซัลวาดอร์</territory>
 			<territory type="SX">ซินต์มาร์เทน</territory>
 			<territory type="SY">ซีเรีย</territory>
-			<territory type="SZ">สวาซิแลนด์</territory>
+			<territory type="SZ">เอสวาตีนี</territory>
+			<territory type="SZ" alt="variant">สวาซิแลนด์</territory>
 			<territory type="TA">ทริสตันดาคูนา</territory>
 			<territory type="TC">หมู่เกาะเติกส์และหมู่เกาะเคคอส</territory>
 			<territory type="TD">ชาด</territory>

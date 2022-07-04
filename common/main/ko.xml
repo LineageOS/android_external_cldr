@@ -987,7 +987,8 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 			<territory type="SV">엘살바도르</territory>
 			<territory type="SX">신트마르턴</territory>
 			<territory type="SY">시리아</territory>
-			<territory type="SZ">스와질란드</territory>
+			<territory type="SZ">에스와티니</territory>
+			<territory type="SZ" alt="variant">스와질란드</territory>
 			<territory type="TA">트리스탄다쿠나</territory>
 			<territory type="TC">터크스 케이커스 제도</territory>
 			<territory type="TD">차드</territory>

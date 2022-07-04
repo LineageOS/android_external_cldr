@@ -416,7 +416,8 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 			<territory type="SV">El Salfadoor</territory>
 			<territory type="SX">Siint Maarteen</territory>
 			<territory type="SY">Suuriya</territory>
-			<territory type="SZ">Iswaasilaand</territory>
+			<territory type="SZ">Eswaatiini</territory>
+			<territory type="SZ" alt="variant">Iswaasilaan</territory>
 			<territory type="TA">Tiristan da Kunha</territory>
 			<territory type="TC">Turks &amp; Kaikos Island</territory>
 			<territory type="TD">Jaad</territory>

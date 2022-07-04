@@ -971,7 +971,8 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 			<territory type="SV">Сальвадор</territory>
 			<territory type="SX">Сінт-Мартен</territory>
 			<territory type="SY">Сирія</territory>
-			<territory type="SZ">Свазіленд</territory>
+			<territory type="SZ">Есватіні</territory>
+			<territory type="SZ" alt="variant" draft="contributed">Свазіленд</territory>
 			<territory type="TA">Трістан-да-Кунья</territory>
 			<territory type="TC">Острови Теркс і Кайкос</territory>
 			<territory type="TD">Чад</territory>

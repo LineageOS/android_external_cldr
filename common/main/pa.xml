@@ -742,7 +742,8 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 			<territory type="SV">ਅਲ ਸਲਵਾਡੋਰ</territory>
 			<territory type="SX">ਸਿੰਟ ਮਾਰਟੀਨ</territory>
 			<territory type="SY">ਸੀਰੀਆ</territory>
-			<territory type="SZ">ਸਵਾਜ਼ੀਲੈਂਡ</territory>
+			<territory type="SZ">ਇਸਵਾਤੀਨੀ</territory>
+			<territory type="SZ" alt="variant">ਸਵਾਜ਼ੀਲੈਂਡ</territory>
 			<territory type="TA">ਟ੍ਰਿਸਟਾਨ ਦਾ ਕੁੰਹਾ</territory>
 			<territory type="TC">ਟੁਰਕਸ ਅਤੇ ਕੈਕੋਸ ਟਾਪੂ</territory>
 			<territory type="TD">ਚਾਡ</territory>

@@ -85,6 +85,7 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 			<territory type="GB" alt="short">RU</territory>
 			<territory type="GG">Guernsey</territory>
 			<territory type="SA">Arabia Saudita</territory>
+			<territory type="SZ">Eswatini</territory>
 			<territory type="TA">Tristán de Acuña</territory>
 			<territory type="TL">Timor-Leste</territory>
 			<territory type="UM">Islas menores alejadas de EE. UU.</territory>

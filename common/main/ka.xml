@@ -928,6 +928,7 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 			<territory type="SX">სინტ-მარტენი</territory>
 			<territory type="SY">სირია</territory>
 			<territory type="SZ">სვაზილენდი</territory>
+			<territory type="SZ" alt="variant">სვაზილანდი</territory>
 			<territory type="TA">ტრისტან-და-კუნია</territory>
 			<territory type="TC">თერქს-ქაიქოსის კუნძულები</territory>
 			<territory type="TD">ჩადი</territory>

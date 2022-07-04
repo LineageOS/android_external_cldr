@@ -803,7 +803,8 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 			<territory type="SV">Սալվադոր</territory>
 			<territory type="SX">Սինտ Մարտեն</territory>
 			<territory type="SY">Սիրիա</territory>
-			<territory type="SZ">Սվազիլենդ</territory>
+			<territory type="SZ">Էսվատինի</territory>
+			<territory type="SZ" alt="variant">Սվազիլենդ</territory>
 			<territory type="TA">Տրիստան դա Կունյա</territory>
 			<territory type="TC">Թըրքս և Կայկոս կղզիներ</territory>
 			<territory type="TD">Չադ</territory>

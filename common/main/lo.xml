@@ -973,7 +973,8 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 			<territory type="SV">ເອວ ຊໍວາດໍ</territory>
 			<territory type="SX">ຊິນ ມາເທັນ</territory>
 			<territory type="SY">ຊີເຣຍ</territory>
-			<territory type="SZ">ສະວາຊິແລນ</territory>
+			<territory type="SZ">​ເອ​ສະ​ວາ​ຕິ​ນີ</territory>
+			<territory type="SZ" alt="variant">ສະ​ວາ​ຊິ​ແລນ</territory>
 			<territory type="TA">ທຣິສຕັນ ດາ ກັນຮາ</territory>
 			<territory type="TC">ໝູ່ເກາະ ເທີກ ແລະ ໄຄໂຄສ</territory>
 			<territory type="TD">ຊາດ</territory>

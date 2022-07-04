@@ -1070,6 +1070,7 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 			<territory type="SX">荷屬聖馬丁</territory>
 			<territory type="SY">敘利亞</territory>
 			<territory type="SZ">史瓦濟蘭</territory>
+			<territory type="SZ" alt="variant" draft="provisional">史瓦帝尼</territory>
 			<territory type="TA">特里斯坦達庫尼亞群島</territory>
 			<territory type="TC">土克斯及開科斯群島</territory>
 			<territory type="TD">查德</territory>

@@ -16,6 +16,24 @@
       "message": "\u003e Patch Set 2:\n\u003e \n\u003e hey! appreciate the contribution, but need to let you know of some things:\n\u003e \n\u003e you are pushing stuff for every branch we have, please don\u0027t do that, most older versions are locked to changes like this, the only ones on which this would be valid at the moment are 19.1 and 20.0.\n\u003e \n\u003e with that said, most of these don\u0027t seem like lineage changes to me, these seem like these should be pushed to AOSP  gerrit if anything, and then picked from their back here once merged.\n\u003e \n\u003e especially if they\u0027re unused. truly, I doubt AOSP will mind removing them.\n\u003e \n\u003e lastly, you should probably be more descriptive in these commit messages.\n\u003e \n\u003e oh, and if any of these are non-aosp repos, then it would be valid to merge them here\n\nHi and thanks for the feedback.\nI\u0027ll take a look which of these changes could be implmented upstream.\nIn case they are, how would merging them back work?\nAlso, which branches are los only?",
       "revId": "0a8944ffacaba1a26afa597e857ef6f5ccc2e4ef",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "46106a01_c26af903",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2022-11-15T05:26:45Z",
+      "side": 1,
+      "message": "If they\u0027re merged on master, pick the master change, push it to Gerrit, and we will merge it!\n\nAnd I didn\u0027t mean lineage only branches - I meant for repos that don\u0027t have AOSP versions.",
+      "parentUuid": "2c536959_b0b54de6",
+      "revId": "0a8944ffacaba1a26afa597e857ef6f5ccc2e4ef",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }

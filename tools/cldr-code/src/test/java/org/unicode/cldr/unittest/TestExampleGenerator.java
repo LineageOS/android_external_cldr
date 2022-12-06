@@ -624,7 +624,7 @@ public class TestExampleGenerator extends TestFmwk {
             CLDRPaths.DEFAULT_SUPPLEMENTAL_DIRECTORY);
         String actual = exampleGenerator.getExampleHtml(
             "//ldml/dates/timeZoneNames/fallbackFormat", "{1} [{0}]");
-        assertEquals("fallbackFormat faulty", "〖❬Central Time❭ [❬Cancun❭]〗",
+        assertEquals("fallbackFormat faulty", "〖❬Central Time❭ [❬Cancún❭]〗",
             ExampleGenerator.simplify(actual, false));
     }
 

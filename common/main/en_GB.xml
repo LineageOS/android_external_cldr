@@ -954,7 +954,10 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 			<territory type="TM">Turkmenistan</territory>
 			<territory type="TN">Tunisia</territory>
 			<territory type="TO">Tonga</territory>
-			<territory type="TR">Turkey</territory>
+			<!-- Android patch: Swap the primary and variant name. b/246410688 begin. -->
+			<territory type="TR">Türkiye</territory>
+			<territory type="TR" alt="variant">Turkey</territory>
+			<!-- Android patch: Swap the primary and variant name. b/246410688 end. -->
 			<territory type="TT">↑↑↑</territory>
 			<territory type="TV">Tuvalu</territory>
 			<territory type="TW">Taiwan</territory>

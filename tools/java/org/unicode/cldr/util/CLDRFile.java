@@ -2493,6 +2493,9 @@ public class CLDRFile implements Freezable<CLDRFile>, Iterable<String>, LocaleSt
      */
     private String getTZName(String tzcode, String format) {
         String longid = getLongTzid(tzcode);
+        if (tzcode.length() == 4 && !tzcode.equals("gaza")) {
+            return longid;
+        }
         TimezoneFormatter tzf = new TimezoneFormatter(this);
         return tzf.getFormattedZone(longid, format, 0);
     }

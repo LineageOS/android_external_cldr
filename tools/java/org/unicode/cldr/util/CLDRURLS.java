@@ -10,8 +10,23 @@ package org.unicode.cldr.util;
 public abstract class CLDRURLS {
     public static final String DEFAULT_HOST = "st.unicode.org";
     public static final String DEFAULT_PATH = "/cldr-apps";
-    public static final String DEFAULT_BASE = "http://" + DEFAULT_HOST + DEFAULT_PATH;
-    public static final String CLDR_NEWTICKET_URL = "http://cldr.unicode.org/index/bug-reports#TOC-Filing-a-Ticket";
+    public static final String DEFAULT_BASE = "https://" + DEFAULT_HOST + DEFAULT_PATH;
+    /**
+     * URL for filing a new ticket
+     */
+    public static final String CLDR_NEWTICKET_URL = "https://cldr.unicode.org/index/bug-reports#TOC-Filing-a-Ticket";
+    public static final String CLDR_REPO_ROOT = "https://github.com/unicode-org/cldr";
+    public static final String CLDR_HOMEPAGE = "https://cldr.unicode.org";
+    public static final String UNICODE_CONSORTIUM = "The Unicode Consortium";
+    public static final String CLDR_UPDATINGDTD_URL = CLDR_HOMEPAGE + "/development/updating-dtds";
+    /**
+     * Our license, in SPDX format
+     */
+    public static final String UNICODE_SPDX = "Unicode-DFS-2016";
+    /**
+     * See: https://spdx.github.io/spdx-spec/appendix-V-using-SPDX-short-identifiers-in-source-files/
+     */
+    public static final String UNICODE_SPDX_HEADER = "SPDX-License-Identifier: " + UNICODE_SPDX;
     /**
      * Override this property if you want to change the absolute URL to the SurveyTool base from DEFAULT_BASE
      */

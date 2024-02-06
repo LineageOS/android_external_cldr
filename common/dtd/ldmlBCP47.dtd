@@ -73,6 +73,9 @@ $Revision$
 <!ATTLIST type since CDATA #IMPLIED >
 	<!--@MATCH:version-->
     <!--@METADATA-->
+<!ATTLIST type iana CDATA #IMPLIED >
+    <!--@MATCH:regex/^[A-Za-z]+(/[A-Za-z_\-]+)+$ -->
+    <!--@VALUE-->
 
 <!ELEMENT attribute EMPTY >
 <!ATTLIST attribute name NMTOKEN #REQUIRED >

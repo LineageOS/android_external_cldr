@@ -26,7 +26,7 @@ public class LogicalGrouping {
         "Aqtau", "Aqtobe", "Arabian", "Argentina", "Argentina_Western", "Armenia",
         "Atlantic", "Australia_Central", "Australia_CentralWestern", "Australia_Eastern", "Australia_Western",
         "Azerbaijan", "Azores", "Bangladesh", "Brasilia", "Cape_Verde",
-        "Chatham", "Chile", "China", "Choibalsan", "Colombia", "Cook", "Cuba", "Easter",
+        "Chatham", "Chile", "China", "Colombia", "Cook", "Cuba", "Easter",
         "Europe_Central", "Europe_Eastern", "Europe_Western", "Falkland", "Fiji", "Georgia",
         "Greenland_Eastern", "Greenland_Western", "Hawaii_Aleutian", "Hong_Kong", "Hovd",
         "Iran", "Irkutsk", "Israel", "Japan", "Kamchatka", "Korea", "Krasnoyarsk",

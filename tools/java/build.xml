@@ -176,7 +176,9 @@
 			<manifest>
 				<attribute name="Built-By" value="${user.name}" />
 				<attribute name="Main-Class" value="org.unicode.cldr.tool.Main" />
-                                <attribute name="CLDR-Tools-Git-Commit" value="${build.githash}" />
+                                <!-- Android-patch: always set to UNKNOWN. Otherwise 2 line strings can lead to invalid MANIFEST.MF  -->
+                                <!--attribute name="CLDR-Tools-Git-Commit" value="${build.githash}" /-->
+                                <attribute name="CLDR-Tools-Git-Commit" value="UNKNOWN" />
 				<attribute name="Class-Path"
 					value="./libs/${cldr.libs.icu4j} ./libs/${cldr.libs.utilities} ./libs/${cldr.libs.xerces} ./libs/${cldr.libs.guava} ./libs/${cldr.libs.failureaccess} ./libs/${cldr.libs.gson} ${cldr.libs.icu4j} ${cldr.libs.utilities} ${cldr.libs.xerces} ${cldr.libs.gson} ./libs/myanmar-tools-1.1.1.jar" />
 			</manifest>

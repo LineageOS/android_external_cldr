@@ -60,7 +60,6 @@ public class LogicalGrouping {
                     "Chatham",
                     "Chile",
                     "China",
-                    "Choibalsan",
                     "Colombia",
                     "Cook",
                     "Cuba",

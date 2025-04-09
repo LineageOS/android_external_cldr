@@ -189,6 +189,8 @@ public class TestBCP47 extends TestFmwk {
         "WET");
 
     public void testBcp47IdsForAllTimezoneIds() {
+        // TODO (ICU-23096): remove once ICU is updated.
+        Set<String> newlyIntroducedTimeZoneIds = Set.of("clcxq");
         Map<String, String> aliasToId = new TreeMap<>();
         Set<String> missingAliases = new TreeSet<>();
         Set<String> deprecatedAliases = new TreeSet<>();
@@ -201,7 +203,9 @@ public class TestBCP47 extends TestFmwk {
             if (itemIsDeprecated) {
                 deprecatedBcp47s.add(bcp47Type);
             }
-            bcp47IdsNotUsed.add(bcp47Type);
+            if (!newlyIntroducedTimeZoneIds.contains(bcp47Type)) {
+                bcp47IdsNotUsed.add(bcp47Type);
+            }
             if (aliasSet == null) {
                 continue;
             }

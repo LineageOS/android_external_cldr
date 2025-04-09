@@ -657,6 +657,8 @@ For terms of use, see http://www.unicode.org/copyright.html
 			<timezone type="America/Punta_Arenas">
 				<usesMetazone to="2016-12-03 23:00" mzone="Chile"/>
 			</timezone>
+			<timezone type="America/Coyhaique">
+				<usesMetazone to="2025-03-19 21:00" mzone="Chile"/>
 			<timezone type="America/Rainy_River">
 				<usesMetazone mzone="America_Central"/>
 			</timezone>

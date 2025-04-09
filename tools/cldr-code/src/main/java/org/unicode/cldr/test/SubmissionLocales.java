@@ -73,6 +73,8 @@ public final class SubmissionLocales {
             + "|units/unitLength\\[@type=\"long\"]"
             // v43: Exemplar city for America/Ciudad_Juarez
             + "|dates/timeZoneNames/zone[@type=\"America/Ciudad_Juarez\"]/exemplarCity"
+            // v48: Exemplar city for America/Coyhaique
+            + "|dates/timeZoneNames/zone\\[@type=\"America/Coyhaique\"]/exemplarCity"
         + ")");
 
     /* Example of special paths
